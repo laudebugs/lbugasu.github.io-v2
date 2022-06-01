@@ -30,7 +30,7 @@
     "react-scripts": "^4.0.3",
     "saas": "^1.0.0",
     "serve": "^13.0.2",
-    "sharp": "^0.29.2",
+    "sharp": "^0.30.5",
     "three": "^0.125.0"
   },
   "scripts": {
